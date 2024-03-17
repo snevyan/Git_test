@@ -1,0 +1,2 @@
+C'est mon premier texte sur Git!
+Je suis heureux de mes orogres.
